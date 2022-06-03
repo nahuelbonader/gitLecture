@@ -1,1 +1,2 @@
+Esta linea va a generar un merge conflict
 Estoy agregando una nueva linea desde nahuel@plataforma5.la
